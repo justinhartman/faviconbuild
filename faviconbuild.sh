@@ -12,7 +12,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 # defaults
 outdir=${DIR}/build
 subdir=favicons
-linksubdir=/$subdir
+linksubdir=/$subdir/
 name=favicon
 source=source.png
 color=#000000
